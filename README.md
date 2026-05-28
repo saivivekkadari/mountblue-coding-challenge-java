@@ -5,11 +5,18 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 ## Progress
 
 ### Day 1
-- Sales by Match
-- Simple Array Sum
+
+* Sales by Match
+* Simple Array Sum
 
 ### Day 2
-- Breaking the Records
-- Number Line Jumps
+
+* Breaking the Records
+* Number Line Jumps
+
+### Day 3
+
+* Staircase
+* Compare the Triplets
 
 More solutions coming daily 🚀
