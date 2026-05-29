@@ -19,4 +19,8 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Staircase
 * Compare the Triplets
 
+### Day 4
+
+* Quicksort 1 - Partition
+
 More solutions coming daily 🚀
