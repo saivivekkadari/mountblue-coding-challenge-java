@@ -23,4 +23,9 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 * Quicksort 1 - Partition
 
+### Day 5
+
+* Super Reduced String
+* Bill Division (Bon Appétit)
+
 More solutions coming daily 🚀
