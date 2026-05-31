@@ -23,6 +23,17 @@ class Result {
 
     public static void bonAppetit(List<Integer> bill, int k, int b) {
     // Write your code here
+        int total_share=0;
+        for(int i=0;i<bill.size();i++){
+            total_share=total_share+bill.get(i);
+        }
+        int actual_share=(total_share-bill.get(k))/2;
+        if(actual_share==b){
+            System.out.println("Bon Appetit");
+        }
+        else{
+            System.out.println(b-actual_share);
+        }
 
     }
 
