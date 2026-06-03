@@ -60,6 +60,6 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Mathematical Problem Solving
 * Time and Space Complexity Analysis
 
-🚀 Progress: 12 / 120 Problems Completed
+🚀 Progress: 14 / 120 Problems Completed
 
 More solutions coming daily...
