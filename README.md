@@ -28,4 +28,38 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Super Reduced String
 * Bill Division (Bon Appétit)
 
-More solutions coming daily 🚀
+### Day 6
+
+* A Very Big Sum
+* Plus Minus
+
+### Day 7
+
+* Between Two Sets
+
+### Day 8
+
+* Subarray Division
+
+### Day 9
+
+* Migratory Birds
+
+## Key Concepts Covered
+
+* Array Traversal
+* Nested Loops
+* Frequency Counting
+* Pattern Printing
+* Factors and Multiples
+* String Manipulation
+* Conditional Logic
+* List Operations
+* Sorting Concepts
+* Subarray Processing
+* Mathematical Problem Solving
+* Time and Space Complexity Analysis
+
+🚀 Progress: 12 / 120 Problems Completed
+
+More solutions coming daily...
