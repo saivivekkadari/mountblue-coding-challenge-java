@@ -45,6 +45,10 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 * Migratory Birds
 
+### Day 10
+
+* Birthday Cake Candles
+
 ## Key Concepts Covered
 
 * Array Traversal
@@ -58,8 +62,9 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Sorting Concepts
 * Subarray Processing
 * Mathematical Problem Solving
+* Counting Techniques
 * Time and Space Complexity Analysis
 
-🚀 Progress: 14 / 120 Problems Completed
+🚀 Progress: 15 / 120 Problems Completed
 
-More solutions coming daily...
+Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
