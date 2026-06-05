@@ -49,6 +49,11 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 * Birthday Cake Candles
 
+### Day 11
+
+* Grading Students
+* Drawing Book
+
 ## Key Concepts Covered
 
 * Array Traversal
@@ -63,8 +68,12 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Subarray Processing
 * Mathematical Problem Solving
 * Counting Techniques
+* Optimization
+* Finding Minimum Values
 * Time and Space Complexity Analysis
 
-🚀 Progress: 15 / 120 Problems Completed
+🚀 Progress: 17 / 120 Problems Completed
 
 Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
+
+More solutions coming daily...
