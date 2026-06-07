@@ -54,6 +54,11 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Grading Students
 * Drawing Book
 
+### Day 12
+
+* Divisible Sum Pairs
+* Mini-Max Sum
+
 ## Key Concepts Covered
 
 * Array Traversal
@@ -70,9 +75,11 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Counting Techniques
 * Optimization
 * Finding Minimum Values
+* Pair-Based Problem Solving
+* Working with Large Numbers
 * Time and Space Complexity Analysis
 
-🚀 Progress: 17 / 120 Problems Completed
+🚀 Progress: 19 / 120 Problems Completed
 
 Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
 
