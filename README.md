@@ -59,6 +59,12 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Divisible Sum Pairs
 * Mini-Max Sum
 
+### Day 13
+
+* Counting Valleys
+* Library Fine
+* Time Conversion
+
 ## Key Concepts Covered
 
 * Array Traversal
@@ -77,9 +83,12 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Finding Minimum Values
 * Pair-Based Problem Solving
 * Working with Large Numbers
+* Date Comparison Logic
+* State Tracking
+* Format Conversion
 * Time and Space Complexity Analysis
 
-🚀 Progress: 19 / 120 Problems Completed
+🚀 Progress: 22 / 120 Problems Completed
 
 Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
 
