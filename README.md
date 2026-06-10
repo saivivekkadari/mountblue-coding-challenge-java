@@ -72,9 +72,17 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 ### Day 15
 
+* Hurdle Race
 * Day of the Programmer
-* The Hurdle Race
 * Minimum Absolute Difference in an Array
+
+### Day 16
+
+* Diagonal Difference
+* Mars Exploration
+* Electronics Shop
+* CamelCase
+* Viral Advertising
 
 ## Key Concepts Covered
 
@@ -84,43 +92,22 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Pattern Printing
 * Factors and Multiples
 * String Manipulation
-* Character Manipulation
 * Conditional Logic
 * List Operations
 * Sorting Concepts
 * Subarray Processing
 * Mathematical Problem Solving
 * Counting Techniques
+* Matrix Traversal
+* Simulation Problems
+* Character Processing
+* Pattern Matching
 * Optimization
 * Finding Minimum and Maximum Values
-* Pair-Based Problem Solving
-* Date Comparison Logic
-* State Tracking
-* Format Conversion
-* ASCII Values
-* Modular Arithmetic
-* Game Theory Basics
-* Leap Year Calculations
-* Calendar Systems
-* Greedy Observations
 * Time and Space Complexity Analysis
 
-## Goal
+🚀 Progress: 32 / 120 Problems Completed
 
-Complete all 120 problems in the MountBlue Coding Challenge while improving:
+Documenting my daily problem-solving journey through GitHub and LinkedIn while strengthening my Java and DSA skills.
 
-* Problem-Solving Skills
-* Java Programming
-* Algorithmic Thinking
-* Consistency and Discipline
-* GitHub Documentation
-
-## Progress Tracker
-
-🚀 **27 / 120 Problems Completed**
-
-## GitHub Journey
-
-I am documenting my progress daily on GitHub as I work through the MountBlue 120-Problem Coding Challenge. Each problem helps me strengthen my problem-solving skills, improve my understanding of algorithms, and build consistency through daily practice.
-
-More solutions coming daily... 🚀
+More solutions coming daily...
