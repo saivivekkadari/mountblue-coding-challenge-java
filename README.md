@@ -72,8 +72,8 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 ### Day 15
 
-* Hurdle Race
 * Day of the Programmer
+* The Hurdle Race
 * Minimum Absolute Difference in an Array
 
 ### Day 16
@@ -84,30 +84,39 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * CamelCase
 * Viral Advertising
 
+### Day 17
+
+* Game of Stones
+* Marc's Cakewalk
+* Cats and a Mouse
+
+### Day 18
+
+* Save The Prisoner!
+* Beautiful Days at the Movies
+* Sequence Equation
+
 ## Key Concepts Covered
 
-* Array Traversal
+* Arrays and Array Traversal
 * Nested Loops
-* Frequency Counting
-* Pattern Printing
-* Factors and Multiples
+* Sorting Techniques
 * String Manipulation
+* Pattern Printing
 * Conditional Logic
-* List Operations
-* Sorting Concepts
-* Subarray Processing
 * Mathematical Problem Solving
-* Counting Techniques
-* Matrix Traversal
+* Frequency Counting
 * Simulation Problems
-* Character Processing
-* Pattern Matching
-* Optimization
-* Finding Minimum and Maximum Values
+* Greedy Approaches
+* Modulo Arithmetic
+* Game Theory Basics
+* Searching and Position Mapping
+* Matrix Traversal
 * Time and Space Complexity Analysis
+* Optimization Techniques
 
-🚀 Progress: 32 / 120 Problems Completed
+🚀 Progress: 38 / 120 Problems Completed
 
-Documenting my daily problem-solving journey through GitHub and LinkedIn while strengthening my Java and DSA skills.
+Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
 
 More solutions coming daily...
