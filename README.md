@@ -2,23 +2,17 @@
 
 Welcome to my coding challenge repository!
 
-This repository contains my solutions for the MountBlue 120 Problems Coding Challenge using Java. The goal of this challenge is to strengthen my problem-solving skills, improve my understanding of Data Structures & Algorithms, and build consistency through daily practice.
+This repository contains my solutions for the MountBlue 120 Problems Coding Challenge using Java. Through this challenge, I am consistently improving my problem-solving skills, strengthening my understanding of Data Structures & Algorithms, and building the habit of writing clean and optimized code.
 
 ## Progress Overview
 
-📌 Problems Solved: **40 / 120**
+📌 Problems Solved: **43 / 120**
 
 📌 Language: **Java**
 
 📌 Platform: **HackerRank**
 
-📌 Focus Areas:
-
-* Problem Solving
-* Data Structures & Algorithms
-* Time & Space Complexity Analysis
-* Optimization Techniques
-* Java Programming
+📌 Challenge: **MountBlue 120 Problems Coding Challenge**
 
 ---
 
@@ -41,7 +35,7 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 ### Day 4
 
-* Quicksort 1 – Partition
+* Quicksort 1 - Partition
 
 ### Day 5
 
@@ -121,56 +115,61 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Angry Professor
 * Jumping on the Clouds (Revisited)
 
+### Day 20
+
+* Sherlock and Squares
+* Minimum Distances
+* Circular Array Rotation
+
 ---
 
-## Concepts Covered So Far
+## Concepts Covered
 
-### Arrays & Traversal
+### Arrays & Lists
 
-* Array Iteration
+* Array Traversal
 * Frequency Counting
-* Array Searching
-* Position Mapping
 * Circular Array Traversal
+* Query-Based Access
+* Position Mapping
 
 ### Strings
 
 * String Manipulation
 * Caesar Cipher
 * Pattern Recognition
-* Character Processing
-* CamelCase Analysis
+* CamelCase Processing
+* Message Validation
 
 ### Mathematics
 
 * Modulo Arithmetic
-* Number Theory
+* Perfect Squares
 * Absolute Difference
-* Factors & Multiples
 * Date Calculations
+* Number Theory
 
 ### Algorithms
 
 * Sorting
-* Greedy Techniques
+* Greedy Approach
 * Simulation
-* Optimization
-* Counting Techniques
+* Optimization Techniques
+* Counting Problems
 
-### Data Structures
+### Matrix Operations
 
-* Arrays
-* Lists (ArrayList)
-* Matrices
+* Primary Diagonal Traversal
+* Secondary Diagonal Traversal
 
 ### Problem-Solving Patterns
 
 * Nested Loops
 * Conditional Logic
 * Pattern Printing
-* Traversal Strategies
 * Circular Traversal
-* Position-Based Mapping
+* Simulation-Based Solutions
+* Mathematical Optimization
 
 ### Complexity Analysis
 
@@ -185,8 +184,8 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 
 * Complete all 120 problems.
 * Improve DSA fundamentals.
-* Write cleaner and more optimized Java solutions.
-* Develop strong problem-solving intuition.
+* Strengthen Java programming skills.
+* Develop optimization thinking.
 * Prepare for Software Engineering interviews.
 
 ---
@@ -198,21 +197,25 @@ Day-01/
 Day-02/
 Day-03/
 ...
-Day-19/
+Day-20/
 ```
 
 Each folder contains:
 
-* Problem Solution
-* Clean Java Implementation
-* Daily Progress Tracking
+* Java Solution(s)
+* Clean Code Implementation
+* Daily Challenge Progress
 
 ---
 
 ## Current Progress
 
-🚀 40 / 120 Problems Completed
+🚀 **43 / 120 Problems Completed**
+
+📈 Progress: **35.8% Complete**
+
+🎯 Remaining: **77 Problems**
 
 Consistency > Intensity.
 
-Learning one problem at a time, one day at a time.
+Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
