@@ -2,11 +2,11 @@
 
 Welcome to my coding challenge repository!
 
-This repository contains my solutions for the MountBlue 120 Problems Coding Challenge using Java. Through this challenge, I am consistently improving my problem-solving skills, strengthening my understanding of Data Structures & Algorithms, and building the habit of writing clean and optimized code.
+This repository contains my solutions for the MountBlue 120 Problems Coding Challenge using Java. Through this challenge, I am strengthening my problem-solving skills, improving my understanding of Data Structures & Algorithms, and developing consistency through daily coding practice.
 
 ## Progress Overview
 
-📌 Problems Solved: **43 / 120**
+📌 Problems Solved: **46 / 120**
 
 📌 Language: **Java**
 
@@ -17,78 +17,6 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 ---
 
 ## Daily Progress
-
-### Day 1
-
-* Sales by Match
-* Simple Array Sum
-
-### Day 2
-
-* Breaking the Records
-* Number Line Jumps
-
-### Day 3
-
-* Staircase
-* Compare the Triplets
-
-### Day 4
-
-* Quicksort 1 - Partition
-
-### Day 5
-
-* Super Reduced String
-* Bill Division (Bon Appétit)
-
-### Day 6
-
-* A Very Big Sum
-* Plus Minus
-
-### Day 7
-
-* Between Two Sets
-
-### Day 8
-
-* Subarray Division
-
-### Day 9
-
-* Migratory Birds
-
-### Day 10
-
-* Birthday Cake Candles
-
-### Day 11
-
-* Grading Students
-* Drawing Book
-
-### Day 12
-
-* Divisible Sum Pairs
-* Mini-Max Sum
-
-### Day 13
-
-* Counting Valleys
-* Library Fine
-* Time Conversion
-
-### Day 14
-
-* Caesar Cipher
-* Tower Breakers
-
-### Day 15
-
-* Day of the Programmer
-* The Hurdle Race
-* Minimum Absolute Difference in an Array
 
 ### Day 16
 
@@ -121,24 +49,30 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Minimum Distances
 * Circular Array Rotation
 
+### Day 21
+
+* Picking Numbers
+* Lonely Integer
+* Find Digits
+
 ---
 
-## Concepts Covered
+## Concepts Covered So Far
 
 ### Arrays & Lists
 
 * Array Traversal
 * Frequency Counting
 * Circular Array Traversal
-* Query-Based Access
 * Position Mapping
+* Query-Based Access
 
 ### Strings
 
 * String Manipulation
 * Caesar Cipher
-* Pattern Recognition
 * CamelCase Processing
+* Pattern Recognition
 * Message Validation
 
 ### Mathematics
@@ -146,46 +80,59 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * Modulo Arithmetic
 * Perfect Squares
 * Absolute Difference
-* Date Calculations
 * Number Theory
+* Digit Extraction
 
 ### Algorithms
 
 * Sorting
-* Greedy Approach
+* Greedy Techniques
 * Simulation
-* Optimization Techniques
+* Optimization
 * Counting Problems
-
-### Matrix Operations
-
-* Primary Diagonal Traversal
-* Secondary Diagonal Traversal
 
 ### Problem-Solving Patterns
 
 * Nested Loops
 * Conditional Logic
-* Pattern Printing
+* Frequency Counting
 * Circular Traversal
-* Simulation-Based Solutions
 * Mathematical Optimization
+* Brute Force Approaches
 
 ### Complexity Analysis
 
 * Time Complexity Analysis
 * Space Complexity Analysis
-* Brute Force Approaches
-* Optimized Solutions
+* Brute Force vs Optimized Solutions
+* Trade-off Evaluation
+
+---
+
+## Recent Learnings
+
+✅ Circular Array Traversal using Modulo Arithmetic
+
+✅ Position Mapping for Efficient Lookups
+
+✅ Perfect Square Counting
+
+✅ Frequency-Based Problem Solving
+
+✅ Digit Extraction using Modulo (%) and Division (/)
+
+✅ Identifying Unique Elements in Arrays
+
+✅ Handling Edge Cases Efficiently
 
 ---
 
 ## Learning Goals
 
 * Complete all 120 problems.
-* Improve DSA fundamentals.
-* Strengthen Java programming skills.
-* Develop optimization thinking.
+* Strengthen DSA fundamentals.
+* Improve Java coding skills.
+* Learn optimization techniques.
 * Prepare for Software Engineering interviews.
 
 ---
@@ -195,27 +142,26 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 ```text
 Day-01/
 Day-02/
-Day-03/
 ...
-Day-20/
+Day-21/
 ```
 
 Each folder contains:
 
 * Java Solution(s)
-* Clean Code Implementation
-* Daily Challenge Progress
+* Problem Statements
+* Daily Progress Tracking
 
 ---
 
 ## Current Progress
 
-🚀 **43 / 120 Problems Completed**
+🚀 **46 / 120 Problems Completed**
 
-📈 Progress: **35.8% Complete**
+📈 **38.3% Complete**
 
-🎯 Remaining: **77 Problems**
+🎯 **74 Problems Remaining**
 
-Consistency > Intensity.
+Consistency compounds over time.
 
-Learning one problem at a time and documenting the journey through GitHub and LinkedIn.
+Learning, coding, and improving every day through deliberate practice.
