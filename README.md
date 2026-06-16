@@ -1,24 +1,95 @@
-# MountBlue 120 Problems Coding Challenge – Java 🚀
+# 🚀 MountBlue Coding Challenge - Java
 
-Welcome to my coding challenge repository!
+Welcome to my MountBlue 120 Problems Coding Challenge repository!
 
-This repository contains my solutions for the MountBlue 120 Problems Coding Challenge using Java. Through this challenge, I am strengthening my problem-solving skills, improving my understanding of Data Structures & Algorithms, and developing consistency through daily coding practice.
-
-## Progress Overview
-
-📌 Problems Solved: **46 / 120**
-
-📌 Language: **Java**
-
-📌 Platform: **HackerRank**
-
-📌 Challenge: **MountBlue 120 Problems Coding Challenge**
+This repository contains my solutions to coding problems solved using **Java**, along with my daily learning journey. The goal of this challenge is to strengthen problem-solving skills, improve algorithmic thinking, and build consistency through daily practice.
 
 ---
 
-## Daily Progress
+## 📊 Challenge Progress
 
-### Day 16
+* 🎯 Total Target: **120 Problems**
+* ✅ Completed: **49 Problems**
+* 🔥 Current Streak: **22 Days**
+* 📈 Progress: **49 / 120 (40.8%)**
+
+---
+
+# 📅 Daily Progress
+
+## Day 1
+
+* Sales by Match
+* Simple Array Sum
+
+## Day 2
+
+* Breaking the Records
+* Number Line Jumps
+
+## Day 3
+
+* Staircase
+* Compare the Triplets
+
+## Day 4
+
+* Quicksort 1 - Partition
+
+## Day 5
+
+* Super Reduced String
+* Bill Division (Bon Appétit)
+
+## Day 6
+
+* A Very Big Sum
+* Plus Minus
+
+## Day 7
+
+* Between Two Sets
+
+## Day 8
+
+* Subarray Division
+
+## Day 9
+
+* Migratory Birds
+
+## Day 10
+
+* Birthday Cake Candles
+
+## Day 11
+
+* Grading Students
+* Drawing Book
+
+## Day 12
+
+* Divisible Sum Pairs
+* Mini-Max Sum
+
+## Day 13
+
+* Counting Valleys
+* Library Fine
+* Time Conversion
+
+## Day 14
+
+* Caesar Cipher
+* Tower Breakers
+
+## Day 15
+
+* Day of the Programmer
+* The Hurdle Race
+* Minimum Absolute Difference in an Array
+
+## Day 16
 
 * Diagonal Difference
 * Mars Exploration
@@ -26,142 +97,114 @@ This repository contains my solutions for the MountBlue 120 Problems Coding Chal
 * CamelCase
 * Viral Advertising
 
-### Day 17
+## Day 17
 
 * Game of Stones
 * Marc's Cakewalk
 * Cats and a Mouse
 
-### Day 18
+## Day 18
 
 * Save The Prisoner!
 * Beautiful Days at the Movies
 * Sequence Equation
 
-### Day 19
+## Day 19
 
 * Angry Professor
-* Jumping on the Clouds (Revisited)
+* Jumping on the Clouds
 
-### Day 20
+## Day 20
 
 * Sherlock and Squares
 * Minimum Distances
 * Circular Array Rotation
 
-### Day 21
+## Day 21
 
 * Picking Numbers
 * Lonely Integer
 * Find Digits
 
+## Day 22
+
+* Smart Number
+* Find the Median
+* Maximum Perimeter Triangle
+
 ---
 
-## Concepts Covered So Far
+# 🧠 Key Concepts Covered
 
-### Arrays & Lists
+### Arrays & Collections
 
 * Array Traversal
 * Frequency Counting
-* Circular Array Traversal
+* List Operations
 * Position Mapping
-* Query-Based Access
-
-### Strings
-
-* String Manipulation
-* Caesar Cipher
-* CamelCase Processing
-* Pattern Recognition
-* Message Validation
-
-### Mathematics
-
-* Modulo Arithmetic
-* Perfect Squares
-* Absolute Difference
-* Number Theory
-* Digit Extraction
 
 ### Algorithms
 
 * Sorting
+* Searching
 * Greedy Techniques
-* Simulation
-* Optimization
-* Counting Problems
-
-### Problem-Solving Patterns
-
-* Nested Loops
-* Conditional Logic
-* Frequency Counting
-* Circular Traversal
-* Mathematical Optimization
 * Brute Force Approaches
+* Optimization Strategies
 
-### Complexity Analysis
+### Strings
+
+* Caesar Cipher
+* String Reduction
+* Pattern Matching
+* Character Manipulation
+
+### Mathematics
+
+* Modulo Arithmetic
+* Factors & Multiples
+* Perfect Squares
+* Number Theory Concepts
+
+### Problem Solving
+
+* Simulation Problems
+* Game Theory Basics
+* Matrix Traversal
+* Pattern Recognition
+* Edge Case Handling
+
+### Performance Analysis
 
 * Time Complexity Analysis
 * Space Complexity Analysis
-* Brute Force vs Optimized Solutions
-* Trade-off Evaluation
+* Algorithm Optimization
+* Comparing Brute Force vs Optimized Solutions
 
 ---
 
-## Recent Learnings
+# 💡 What I'm Learning
 
-✅ Circular Array Traversal using Modulo Arithmetic
+Through this challenge, I am continuously improving:
 
-✅ Position Mapping for Efficient Lookups
-
-✅ Perfect Square Counting
-
-✅ Frequency-Based Problem Solving
-
-✅ Digit Extraction using Modulo (%) and Division (/)
-
-✅ Identifying Unique Elements in Arrays
-
-✅ Handling Edge Cases Efficiently
+* Problem-solving ability
+* Java programming skills
+* Algorithmic thinking
+* Debugging techniques
+* Code optimization
+* Consistency and discipline
 
 ---
 
-## Learning Goals
+# 🎯 Goal
 
-* Complete all 120 problems.
-* Strengthen DSA fundamentals.
-* Improve Java coding skills.
-* Learn optimization techniques.
-* Prepare for Software Engineering interviews.
+Complete all **120 problems**, strengthen DSA fundamentals, and become a better software engineer through daily practice and continuous learning.
 
 ---
 
-## Repository Structure
+### 🚀 Progress Never Stops
 
-```text
-Day-01/
-Day-02/
-...
-Day-21/
-```
+49 Problems Completed ✅
 
-Each folder contains:
+71 Problems Remaining 🎯
 
-* Java Solution(s)
-* Problem Statements
-* Daily Progress Tracking
-
----
-
-## Current Progress
-
-🚀 **46 / 120 Problems Completed**
-
-📈 **38.3% Complete**
-
-🎯 **74 Problems Remaining**
-
-Consistency compounds over time.
-
-Learning, coding, and improving every day through deliberate practice.
+Learning one problem at a time, one day at a time.
