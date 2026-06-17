@@ -9,9 +9,9 @@ This repository contains my solutions to coding problems solved using **Java**, 
 ## 📊 Challenge Progress
 
 * 🎯 Total Target: **120 Problems**
-* ✅ Completed: **49 Problems**
-* 🔥 Current Streak: **22 Days**
-* 📈 Progress: **49 / 120 (40.8%)**
+* ✅ Completed: **50 Problems**
+* 🔥 Current Streak: **23 Days**
+* 📈 Progress: **50 / 120 (41.7%)**
 
 ---
 
@@ -132,6 +132,10 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Find the Median
 * Maximum Perimeter Triangle
 
+## Day 23
+
+* Grid Challenge
+
 ---
 
 # 🧠 Key Concepts Covered
@@ -142,6 +146,7 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Frequency Counting
 * List Operations
 * Position Mapping
+* Array Rotation
 
 ### Algorithms
 
@@ -150,6 +155,7 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Greedy Techniques
 * Brute Force Approaches
 * Optimization Strategies
+* Lexicographical Ordering
 
 ### Strings
 
@@ -157,6 +163,7 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * String Reduction
 * Pattern Matching
 * Character Manipulation
+* CamelCase Processing
 
 ### Mathematics
 
@@ -164,6 +171,7 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Factors & Multiples
 * Perfect Squares
 * Number Theory Concepts
+* Divisibility Logic
 
 ### Problem Solving
 
@@ -172,6 +180,9 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Matrix Traversal
 * Pattern Recognition
 * Edge Case Handling
+* Row-wise Sorting
+* Column-wise Validation
+* 2D Grid Processing
 
 ### Performance Analysis
 
@@ -191,6 +202,8 @@ Through this challenge, I am continuously improving:
 * Algorithmic thinking
 * Debugging techniques
 * Code optimization
+* Time and Space Complexity Analysis
+* Writing cleaner and more efficient code
 * Consistency and discipline
 
 ---
@@ -201,10 +214,18 @@ Complete all **120 problems**, strengthen DSA fundamentals, and become a better 
 
 ---
 
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sai-vivek-kadari-a86172288
+
+---
+
 ### 🚀 Progress Never Stops
 
-49 Problems Completed ✅
+50 Problems Completed ✅
 
-71 Problems Remaining 🎯
+70 Problems Remaining 🎯
 
 Learning one problem at a time, one day at a time.
+
+Consistent effort today becomes expertise tomorrow.
