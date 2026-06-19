@@ -1,17 +1,47 @@
-# 🚀 MountBlue Coding Challenge - Java
+# 🚀 MountBlue 120 Problems Coding Challenge - Java
 
-Welcome to my MountBlue 120 Problems Coding Challenge repository!
+Welcome to my coding challenge repository!
 
-This repository contains my solutions to coding problems solved using **Java**, along with my daily learning journey. The goal of this challenge is to strengthen problem-solving skills, improve algorithmic thinking, and build consistency through daily practice.
+This repository documents my journey of solving 120 coding problems using Java as part of the MountBlue Coding Challenge. The objective is to strengthen Data Structures & Algorithms fundamentals, improve problem-solving skills, and build consistency through daily coding practice.
 
 ---
 
 ## 📊 Challenge Progress
 
-* 🎯 Total Target: **120 Problems**
-* ✅ Completed: **50 Problems**
-* 🔥 Current Streak: **23 Days**
-* 📈 Progress: **50 / 120 (41.7%)**
+| Metric            | Status           |
+| ----------------- | ---------------- |
+| 🎯 Total Target   | 120 Problems     |
+| ✅ Completed       | 52 Problems      |
+| 🔥 Current Streak | 25 Days          |
+| 📈 Progress       | 52 / 120 (43.3%) |
+| 🎯 Remaining      | 68 Problems      |
+
+---
+
+## 🏆 Recent Progress
+
+### Day 24
+
+✅ Luck Balance
+
+**Concepts Covered**
+
+* Greedy Algorithms
+* Sorting
+* Optimization Strategies
+* Constraint-Based Decisions
+
+### Day 25
+
+✅ Separate the Numbers
+
+**Concepts Covered**
+
+* String Manipulation
+* Pattern Matching
+* Consecutive Sequence Validation
+* Substring Operations
+* Edge Case Handling
 
 ---
 
@@ -136,24 +166,33 @@ This repository contains my solutions to coding problems solved using **Java**, 
 
 * Grid Challenge
 
+## Day 24
+
+* Luck Balance
+
+## Day 25
+
+* Separate the Numbers
+
 ---
 
-# 🧠 Key Concepts Covered
+# 🧠 Skills & Concepts Covered
 
 ### Arrays & Collections
 
 * Array Traversal
 * Frequency Counting
-* List Operations
-* Position Mapping
+* Prefix Operations
+* List Manipulation
 * Array Rotation
+* Position Mapping
 
 ### Algorithms
 
 * Sorting
 * Searching
-* Greedy Techniques
-* Brute Force Approaches
+* Greedy Algorithms
+* Brute Force Techniques
 * Optimization Strategies
 * Lexicographical Ordering
 
@@ -161,27 +200,26 @@ This repository contains my solutions to coding problems solved using **Java**, 
 
 * Caesar Cipher
 * String Reduction
-* Pattern Matching
-* Character Manipulation
 * CamelCase Processing
+* Pattern Matching
+* Consecutive Number Validation
+* Character Manipulation
 
 ### Mathematics
 
 * Modulo Arithmetic
 * Factors & Multiples
 * Perfect Squares
-* Number Theory Concepts
+* Number Theory
 * Divisibility Logic
 
 ### Problem Solving
 
 * Simulation Problems
-* Game Theory Basics
 * Matrix Traversal
+* Game Theory Basics
 * Pattern Recognition
 * Edge Case Handling
-* Row-wise Sorting
-* Column-wise Validation
 * 2D Grid Processing
 
 ### Performance Analysis
@@ -189,7 +227,7 @@ This repository contains my solutions to coding problems solved using **Java**, 
 * Time Complexity Analysis
 * Space Complexity Analysis
 * Algorithm Optimization
-* Comparing Brute Force vs Optimized Solutions
+* Brute Force vs Optimized Solutions
 
 ---
 
@@ -197,35 +235,52 @@ This repository contains my solutions to coding problems solved using **Java**, 
 
 Through this challenge, I am continuously improving:
 
-* Problem-solving ability
-* Java programming skills
-* Algorithmic thinking
-* Debugging techniques
-* Code optimization
-* Time and Space Complexity Analysis
-* Writing cleaner and more efficient code
-* Consistency and discipline
+* Problem-Solving Skills
+* Data Structures & Algorithms
+* Java Programming
+* Debugging Techniques
+* Code Optimization
+* Time & Space Complexity Analysis
+* Clean Coding Practices
+* Technical Communication
+* Consistency & Discipline
 
 ---
 
-# 🎯 Goal
+# 🎯 End Goal
 
-Complete all **120 problems**, strengthen DSA fundamentals, and become a better software engineer through daily practice and continuous learning.
+Complete all 120 coding problems, strengthen DSA fundamentals, improve coding interview readiness, and become a better software engineer through continuous learning and practice.
+
+---
+
+## 📂 Repository Structure
+
+Day-01/
+Day-02/
+Day-03/
+...
+Day-24/
+│── Question51_LuckBalance.java
+
+Day-25/
+│── Question52_SeparateTheNumber.java
 
 ---
 
 ## 🔗 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/sai-vivek-kadari-a86172288
+LinkedIn:
+[www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
+
+GitHub:
+github.com/saivivekkadari
 
 ---
 
-### 🚀 Progress Never Stops
+## 🚀 Progress Never Stops
 
-50 Problems Completed ✅
+✅ 52 Problems Completed
 
-70 Problems Remaining 🎯
+🎯 68 Problems Remaining
 
-Learning one problem at a time, one day at a time.
-
-Consistent effort today becomes expertise tomorrow.
+Every problem solved today is an investment in the engineer I want to become tomorrow.
