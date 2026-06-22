@@ -1,182 +1,79 @@
-# 🚀 MountBlue 120 Problems Coding Challenge - Java
-
-Welcome to my coding challenge repository!
-
-This repository documents my journey of solving 120 coding problems using Java as part of the MountBlue Coding Challenge. The objective is to strengthen Data Structures & Algorithms fundamentals, improve problem-solving skills, and build consistency through daily coding practice.
-
----
+Update these sections in your README:
 
 ## 📊 Challenge Progress
 
 | Metric            | Status           |
 | ----------------- | ---------------- |
 | 🎯 Total Target   | 120 Problems     |
-| ✅ Completed       | 52 Problems      |
-| 🔥 Current Streak | 25 Days          |
-| 📈 Progress       | 52 / 120 (43.3%) |
-| 🎯 Remaining      | 68 Problems      |
+| ✅ Completed       | 58 Problems      |
+| 🔥 Current Streak | 28 Days          |
+| 📈 Progress       | 58 / 120 (48.3%) |
+| 🎯 Remaining      | 62 Problems      |
 
 ---
 
 ## 🏆 Recent Progress
 
-### Day 24
+### Day 26
 
-✅ Luck Balance
-
-**Concepts Covered**
-
-* Greedy Algorithms
-* Sorting
-* Optimization Strategies
-* Constraint-Based Decisions
-
-### Day 25
-
-✅ Separate the Numbers
+✅ Equalize the Array
 
 **Concepts Covered**
 
+* Frequency Counting
+* Nested Loop Traversal
+* Array Manipulation
+* Maximization Techniques
+
+### Day 27
+
+✅ Big Sorting
+✅ Beautiful Triplets
+✅ Alternating Characters
+✅ Halloween Sale
+
+**Concepts Covered**
+
+* Custom Sorting
 * String Manipulation
-* Pattern Matching
-* Consecutive Sequence Validation
-* Substring Operations
-* Edge Case Handling
+* Pattern Recognition
+* Simulation Problems
+* Conditional Logic
+
+### Day 28
+
+✅ Taum and B'day
+
+**Concepts Covered**
+
+* Greedy Thinking
+* Cost Optimization
+* Mathematical Reasoning
+* Handling Large Numbers
+* Minimum Cost Selection
 
 ---
 
-# 📅 Daily Progress
+Add the following to the Daily Progress section:
 
-## Day 1
+## Day 26
 
-* Sales by Match
-* Simple Array Sum
+* Equalize the Array
 
-## Day 2
+## Day 27
 
-* Breaking the Records
-* Number Line Jumps
+* Big Sorting
+* Beautiful Triplets
+* Alternating Characters
+* Halloween Sale
 
-## Day 3
+## Day 28
 
-* Staircase
-* Compare the Triplets
-
-## Day 4
-
-* Quicksort 1 - Partition
-
-## Day 5
-
-* Super Reduced String
-* Bill Division (Bon Appétit)
-
-## Day 6
-
-* A Very Big Sum
-* Plus Minus
-
-## Day 7
-
-* Between Two Sets
-
-## Day 8
-
-* Subarray Division
-
-## Day 9
-
-* Migratory Birds
-
-## Day 10
-
-* Birthday Cake Candles
-
-## Day 11
-
-* Grading Students
-* Drawing Book
-
-## Day 12
-
-* Divisible Sum Pairs
-* Mini-Max Sum
-
-## Day 13
-
-* Counting Valleys
-* Library Fine
-* Time Conversion
-
-## Day 14
-
-* Caesar Cipher
-* Tower Breakers
-
-## Day 15
-
-* Day of the Programmer
-* The Hurdle Race
-* Minimum Absolute Difference in an Array
-
-## Day 16
-
-* Diagonal Difference
-* Mars Exploration
-* Electronics Shop
-* CamelCase
-* Viral Advertising
-
-## Day 17
-
-* Game of Stones
-* Marc's Cakewalk
-* Cats and a Mouse
-
-## Day 18
-
-* Save The Prisoner!
-* Beautiful Days at the Movies
-* Sequence Equation
-
-## Day 19
-
-* Angry Professor
-* Jumping on the Clouds
-
-## Day 20
-
-* Sherlock and Squares
-* Minimum Distances
-* Circular Array Rotation
-
-## Day 21
-
-* Picking Numbers
-* Lonely Integer
-* Find Digits
-
-## Day 22
-
-* Smart Number
-* Find the Median
-* Maximum Perimeter Triangle
-
-## Day 23
-
-* Grid Challenge
-
-## Day 24
-
-* Luck Balance
-
-## Day 25
-
-* Separate the Numbers
+* Taum and B'day
 
 ---
 
-# 🧠 Skills & Concepts Covered
+Update the Skills & Concepts Covered section:
 
 ### Arrays & Collections
 
@@ -186,6 +83,7 @@ This repository documents my journey of solving 120 coding problems using Java a
 * List Manipulation
 * Array Rotation
 * Position Mapping
+* Array Equalization
 
 ### Algorithms
 
@@ -195,6 +93,7 @@ This repository documents my journey of solving 120 coding problems using Java a
 * Brute Force Techniques
 * Optimization Strategies
 * Lexicographical Ordering
+* Custom Comparators
 
 ### Strings
 
@@ -204,6 +103,7 @@ This repository documents my journey of solving 120 coding problems using Java a
 * Pattern Matching
 * Consecutive Number Validation
 * Character Manipulation
+* Alternating Character Validation
 
 ### Mathematics
 
@@ -212,6 +112,7 @@ This repository documents my journey of solving 120 coding problems using Java a
 * Perfect Squares
 * Number Theory
 * Divisibility Logic
+* Cost Optimization
 
 ### Problem Solving
 
@@ -221,66 +122,38 @@ This repository documents my journey of solving 120 coding problems using Java a
 * Pattern Recognition
 * Edge Case Handling
 * 2D Grid Processing
-
-### Performance Analysis
-
-* Time Complexity Analysis
-* Space Complexity Analysis
-* Algorithm Optimization
-* Brute Force vs Optimized Solutions
-
----
-
-# 💡 What I'm Learning
-
-Through this challenge, I am continuously improving:
-
-* Problem-Solving Skills
-* Data Structures & Algorithms
-* Java Programming
-* Debugging Techniques
-* Code Optimization
-* Time & Space Complexity Analysis
-* Clean Coding Practices
-* Technical Communication
-* Consistency & Discipline
-
----
-
-# 🎯 End Goal
-
-Complete all 120 coding problems, strengthen DSA fundamentals, improve coding interview readiness, and become a better software engineer through continuous learning and practice.
+* Greedy Decision Making
 
 ---
 
 ## 📂 Repository Structure
 
-Day-01/
-Day-02/
-Day-03/
-...
 Day-24/
 │── Question51_LuckBalance.java
 
 Day-25/
 │── Question52_SeparateTheNumber.java
 
----
+Day-26/
+│── Question53_EqualizeTheArray.java
 
-## 🔗 Connect With Me
+Day-27/
+│── Question54_BigSorting.java
+│── Question55_BeautifulTriplets.java
+│── Question56_AlternatingCharacters.java
+│── Question57_HalloweenSale.java
 
-LinkedIn:
-[www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
-
-GitHub:
-github.com/saivivekkadari
+Day-28/
+│── Question58_TaumAndBday.java
 
 ---
 
 ## 🚀 Progress Never Stops
 
-✅ 52 Problems Completed
+✅ 58 Problems Completed
 
-🎯 68 Problems Remaining
+🎯 62 Problems Remaining
 
-Every problem solved today is an investment in the engineer I want to become tomorrow.
+Learning one problem at a time, one day at a time.
+
+Consistent effort today becomes expertise tomorrow.
