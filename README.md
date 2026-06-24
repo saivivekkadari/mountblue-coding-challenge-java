@@ -11,10 +11,10 @@ This repository documents my journey of solving 120 coding problems using Java. 
 | Metric            | Status           |
 | ----------------- | ---------------- |
 | 🎯 Total Target   | 120 Problems     |
-| ✅ Completed       | 58 Problems      |
-| 🔥 Current Streak | 28 Days          |
-| 📈 Progress       | 58 / 120 (48.3%) |
-| 🎯 Remaining      | 62 Problems      |
+| ✅ Completed       | 59 Problems      |
+| 🔥 Current Streak | 29 Days          |
+| 📈 Progress       | 59 / 120 (49.2%) |
+| 🎯 Remaining      | 61 Problems      |
 
 ---
 
@@ -33,7 +33,7 @@ Throughout this challenge, I have worked on a wide variety of topics including:
 * Complexity Analysis
 * Optimization Techniques
 
-Each problem has helped me improve my logical thinking and understand different approaches to solving real-world programming challenges.
+Each problem has helped me improve my logical thinking and understand different approaches to solving programming challenges.
 
 ---
 
@@ -181,9 +181,13 @@ Each problem has helped me improve my logical thinking and understand different 
 
 * Taum and B'day
 
+## Day 29
+
+* Jumping on the Clouds
+
 ---
 
-# 🧠 Concepts Covered
+# 🧠 Skills & Concepts Covered
 
 ## Arrays & Collections
 
@@ -203,6 +207,7 @@ Each problem has helped me improve my logical thinking and understand different 
 * Optimization Techniques
 * Custom Comparators
 * Lexicographical Ordering
+* Greedy Path Selection
 
 ## Strings
 
@@ -232,6 +237,7 @@ Each problem has helped me improve my logical thinking and understand different 
 * Edge Case Handling
 * Greedy Decision Making
 * Game Theory Basics
+* Step-by-Step Optimization
 
 ## Performance Analysis
 
@@ -252,7 +258,7 @@ Through this challenge, I am continuously improving:
 * Algorithmic Thinking
 * Debugging Techniques
 * Code Optimization
-* Complexity Analysis
+* Time & Space Complexity Analysis
 * Clean Coding Practices
 * Technical Communication
 * Consistency & Discipline
@@ -261,6 +267,7 @@ Through this challenge, I am continuously improving:
 
 # 📂 Repository Structure
 
+```text
 Day-01/
 Day-02/
 Day-03/
@@ -283,6 +290,10 @@ Day-27/
 Day-28/
 │── Question58_TaumAndBday.java
 
+Day-29/
+│── Question59_JumpingOnTheClouds.java
+```
+
 ---
 
 # 🎯 End Goal
@@ -294,18 +305,20 @@ Complete all 120 problems, strengthen DSA fundamentals, improve coding interview
 # 🔗 Connect With Me
 
 LinkedIn:
+
 [www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
 
 GitHub:
+
 github.com/saivivekkadari
 
 ---
 
 # 🚀 Progress Never Stops
 
-✅ 58 Problems Completed
+✅ 59 Problems Completed
 
-🎯 62 Problems Remaining
+🎯 61 Problems Remaining
 
 Every problem solved improves my understanding of programming, algorithms, and problem-solving.
 
