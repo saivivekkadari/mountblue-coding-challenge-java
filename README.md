@@ -1,6 +1,12 @@
-Update these sections in your README:
+# 🚀 MountBlue 120 Problems Coding Challenge – Java
 
-## 📊 Challenge Progress
+Welcome to my MountBlue Coding Challenge repository!
+
+This repository documents my journey of solving 120 coding problems using Java. The goal of this challenge is to strengthen my Data Structures & Algorithms (DSA) fundamentals, improve problem-solving skills, build consistency, and prepare for software engineering opportunities through daily practice.
+
+---
+
+# 📊 Challenge Progress
 
 | Metric            | Status           |
 | ----------------- | ---------------- |
@@ -12,49 +18,153 @@ Update these sections in your README:
 
 ---
 
-## 🏆 Recent Progress
+# 🏆 Journey Highlights
 
-### Day 26
+Throughout this challenge, I have worked on a wide variety of topics including:
 
-✅ Equalize the Array
-
-**Concepts Covered**
-
-* Frequency Counting
-* Nested Loop Traversal
-* Array Manipulation
-* Maximization Techniques
-
-### Day 27
-
-✅ Big Sorting
-✅ Beautiful Triplets
-✅ Alternating Characters
-✅ Halloween Sale
-
-**Concepts Covered**
-
-* Custom Sorting
+* Arrays & Collections
 * String Manipulation
+* Sorting & Searching
+* Greedy Algorithms
+* Mathematical Problem Solving
+* Simulation-Based Problems
 * Pattern Recognition
-* Simulation Problems
-* Conditional Logic
+* Game Theory Basics
+* Complexity Analysis
+* Optimization Techniques
 
-### Day 28
-
-✅ Taum and B'day
-
-**Concepts Covered**
-
-* Greedy Thinking
-* Cost Optimization
-* Mathematical Reasoning
-* Handling Large Numbers
-* Minimum Cost Selection
+Each problem has helped me improve my logical thinking and understand different approaches to solving real-world programming challenges.
 
 ---
 
-Add the following to the Daily Progress section:
+# 📅 Daily Progress
+
+## Day 1
+
+* Sales by Match
+* Simple Array Sum
+
+## Day 2
+
+* Breaking the Records
+* Number Line Jumps
+
+## Day 3
+
+* Staircase
+* Compare the Triplets
+
+## Day 4
+
+* Quicksort 1 – Partition
+
+## Day 5
+
+* Super Reduced String
+* Bill Division (Bon Appétit)
+
+## Day 6
+
+* A Very Big Sum
+* Plus Minus
+
+## Day 7
+
+* Between Two Sets
+
+## Day 8
+
+* Subarray Division
+
+## Day 9
+
+* Migratory Birds
+
+## Day 10
+
+* Birthday Cake Candles
+
+## Day 11
+
+* Grading Students
+* Drawing Book
+
+## Day 12
+
+* Divisible Sum Pairs
+* Mini-Max Sum
+
+## Day 13
+
+* Counting Valleys
+* Library Fine
+* Time Conversion
+
+## Day 14
+
+* Caesar Cipher
+* Tower Breakers
+
+## Day 15
+
+* Day of the Programmer
+* The Hurdle Race
+* Minimum Absolute Difference in an Array
+
+## Day 16
+
+* Diagonal Difference
+* Mars Exploration
+* Electronics Shop
+* CamelCase
+* Viral Advertising
+
+## Day 17
+
+* Game of Stones
+* Marc's Cakewalk
+* Cats and a Mouse
+
+## Day 18
+
+* Save The Prisoner!
+* Beautiful Days at the Movies
+* Sequence Equation
+
+## Day 19
+
+* Angry Professor
+* Jumping on the Clouds
+
+## Day 20
+
+* Sherlock and Squares
+* Minimum Distances
+* Circular Array Rotation
+
+## Day 21
+
+* Picking Numbers
+* Lonely Integer
+* Find Digits
+
+## Day 22
+
+* Smart Number
+* Find the Median
+* Maximum Perimeter Triangle
+
+## Day 23
+
+* Grid Challenge
+
+## Day 24
+
+* Luck Balance
+
+## Day 25
+
+* Separate the Numbers
 
 ## Day 26
 
@@ -73,39 +183,38 @@ Add the following to the Daily Progress section:
 
 ---
 
-Update the Skills & Concepts Covered section:
+# 🧠 Concepts Covered
 
-### Arrays & Collections
+## Arrays & Collections
 
 * Array Traversal
 * Frequency Counting
-* Prefix Operations
-* List Manipulation
 * Array Rotation
+* List Manipulation
 * Position Mapping
 * Array Equalization
 
-### Algorithms
+## Algorithms
 
 * Sorting
 * Searching
 * Greedy Algorithms
-* Brute Force Techniques
-* Optimization Strategies
-* Lexicographical Ordering
+* Brute Force Approaches
+* Optimization Techniques
 * Custom Comparators
+* Lexicographical Ordering
 
-### Strings
+## Strings
 
 * Caesar Cipher
 * String Reduction
-* CamelCase Processing
 * Pattern Matching
-* Consecutive Number Validation
 * Character Manipulation
+* CamelCase Processing
+* Consecutive Number Validation
 * Alternating Character Validation
 
-### Mathematics
+## Mathematics
 
 * Modulo Arithmetic
 * Factors & Multiples
@@ -114,20 +223,48 @@ Update the Skills & Concepts Covered section:
 * Divisibility Logic
 * Cost Optimization
 
-### Problem Solving
+## Problem Solving
 
 * Simulation Problems
-* Matrix Traversal
-* Game Theory Basics
 * Pattern Recognition
-* Edge Case Handling
+* Matrix Traversal
 * 2D Grid Processing
+* Edge Case Handling
 * Greedy Decision Making
+* Game Theory Basics
+
+## Performance Analysis
+
+* Time Complexity Analysis
+* Space Complexity Analysis
+* Brute Force vs Optimized Solutions
+* Algorithm Optimization
 
 ---
 
-## 📂 Repository Structure
+# 💡 What I'm Learning
 
+Through this challenge, I am continuously improving:
+
+* Problem-Solving Skills
+* Java Programming
+* Data Structures & Algorithms
+* Algorithmic Thinking
+* Debugging Techniques
+* Code Optimization
+* Complexity Analysis
+* Clean Coding Practices
+* Technical Communication
+* Consistency & Discipline
+
+---
+
+# 📂 Repository Structure
+
+Day-01/
+Day-02/
+Day-03/
+...
 Day-24/
 │── Question51_LuckBalance.java
 
@@ -148,12 +285,29 @@ Day-28/
 
 ---
 
-## 🚀 Progress Never Stops
+# 🎯 End Goal
+
+Complete all 120 problems, strengthen DSA fundamentals, improve coding interview readiness, and become a better software engineer through consistent daily practice.
+
+---
+
+# 🔗 Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
+
+GitHub:
+github.com/saivivekkadari
+
+---
+
+# 🚀 Progress Never Stops
 
 ✅ 58 Problems Completed
 
 🎯 62 Problems Remaining
 
-Learning one problem at a time, one day at a time.
+Every problem solved improves my understanding of programming, algorithms, and problem-solving.
 
-Consistent effort today becomes expertise tomorrow.
+Learning one problem at a time.
+Growing one day at a time.
