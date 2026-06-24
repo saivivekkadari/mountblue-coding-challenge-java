@@ -11,10 +11,10 @@ This repository documents my journey of solving 120 coding problems using Java. 
 | Metric            | Status           |
 | ----------------- | ---------------- |
 | 🎯 Total Target   | 120 Problems     |
-| ✅ Completed       | 59 Problems      |
-| 🔥 Current Streak | 29 Days          |
-| 📈 Progress       | 59 / 120 (49.2%) |
-| 🎯 Remaining      | 61 Problems      |
+| ✅ Completed       | 61 Problems      |
+| 🔥 Current Streak | 30 Days          |
+| 📈 Progress       | 61 / 120 (50.8%) |
+| 🎯 Remaining      | 59 Problems      |
 
 ---
 
@@ -32,6 +32,9 @@ Throughout this challenge, I have worked on a wide variety of topics including:
 * Game Theory Basics
 * Complexity Analysis
 * Optimization Techniques
+* HashSet Applications
+* Character Frequency Analysis
+* Reverse Traversal Techniques
 
 Each problem has helped me improve my logical thinking and understand different approaches to solving programming challenges.
 
@@ -185,6 +188,11 @@ Each problem has helped me improve my logical thinking and understand different 
 
 * Jumping on the Clouds
 
+## Day 30
+
+* Gemstones
+* Funny String
+
 ---
 
 # 🧠 Skills & Concepts Covered
@@ -218,6 +226,8 @@ Each problem has helped me improve my logical thinking and understand different 
 * CamelCase Processing
 * Consecutive Number Validation
 * Alternating Character Validation
+* Funny String Validation
+* Common Character Detection
 
 ## Mathematics
 
@@ -292,6 +302,10 @@ Day-28/
 
 Day-29/
 │── Question59_JumpingOnTheClouds.java
+
+Day-30/
+│── Question60_Gemstones.java
+│── Question61_FunnyString.java
 ```
 
 ---
@@ -304,11 +318,11 @@ Complete all 120 problems, strengthen DSA fundamentals, improve coding interview
 
 # 🔗 Connect With Me
 
-LinkedIn:
+### LinkedIn
 
 [www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
 
-GitHub:
+### GitHub
 
 github.com/saivivekkadari
 
@@ -316,9 +330,13 @@ github.com/saivivekkadari
 
 # 🚀 Progress Never Stops
 
-✅ 59 Problems Completed
+✅ 61 Problems Completed
 
-🎯 61 Problems Remaining
+🎯 59 Problems Remaining
+
+🔥 30-Day Consistency Streak
+
+📈 Crossed the 50% Milestone
 
 Every problem solved improves my understanding of programming, algorithms, and problem-solving.
 
