@@ -1,26 +1,29 @@
 # 🚀 MountBlue 120 Problems Coding Challenge – Java
 
-Welcome to my MountBlue Coding Challenge repository!
+Welcome to my **MountBlue 120 Problems Coding Challenge** repository!
 
-This repository documents my journey of solving 120 coding problems using Java. The goal of this challenge is to strengthen my Data Structures & Algorithms (DSA) fundamentals, improve problem-solving skills, build consistency, and prepare for software engineering opportunities through daily practice.
+This repository documents my journey of solving **120 coding problems using Java**. The primary goal of this challenge is to strengthen my **Data Structures & Algorithms (DSA)** fundamentals, improve problem-solving skills, build consistency, and prepare for software engineering opportunities through daily practice.
+
+Every solution in this repository represents another step toward becoming a better software engineer.
 
 ---
 
 # 📊 Challenge Progress
 
-| Metric            | Status           |
-| ----------------- | ---------------- |
-| 🎯 Total Target   | 120 Problems     |
-| ✅ Completed       | 61 Problems      |
-| 🔥 Current Streak | 30 Days          |
-| 📈 Progress       | 61 / 120 (50.8%) |
-| 🎯 Remaining      | 59 Problems      |
+| Metric            | Status                       |
+| ----------------- | ---------------------------- |
+| 🎯 Total Target   | 120 Problems                 |
+| ✅ Completed       | 64 Problems                  |
+| 🔥 Current Streak | 32 Days                      |
+| 📈 Progress       | **64 / 120 (53.3%)**         |
+| 🎯 Remaining      | 56 Problems                  |
+| 🏅 Milestone      | **50%+ Challenge Completed** |
 
 ---
 
 # 🏆 Journey Highlights
 
-Throughout this challenge, I have worked on a wide variety of topics including:
+Throughout this challenge, I have solved problems covering a wide variety of topics, including:
 
 * Arrays & Collections
 * String Manipulation
@@ -35,8 +38,12 @@ Throughout this challenge, I have worked on a wide variety of topics including:
 * HashSet Applications
 * Character Frequency Analysis
 * Reverse Traversal Techniques
+* Password Validation
+* Pangram Detection
+* Two-Pointer Technique
+* Palindrome Transformation
 
-Each problem has helped me improve my logical thinking and understand different approaches to solving programming challenges.
+Each problem has helped me improve my logical thinking, explore different approaches, and write cleaner, more efficient Java code.
 
 ---
 
@@ -193,6 +200,15 @@ Each problem has helped me improve my logical thinking and understand different 
 * Gemstones
 * Funny String
 
+## Day 31
+
+* Strong Password
+* Pangram
+
+## Day 32
+
+* The Love-Letter Mystery
+
 ---
 
 # 🧠 Skills & Concepts Covered
@@ -216,6 +232,7 @@ Each problem has helped me improve my logical thinking and understand different 
 * Custom Comparators
 * Lexicographical Ordering
 * Greedy Path Selection
+* Two-Pointer Technique
 
 ## Strings
 
@@ -228,7 +245,12 @@ Each problem has helped me improve my logical thinking and understand different 
 * Alternating Character Validation
 * Funny String Validation
 * Common Character Detection
+* Pangram Validation
+* Password Strength Validation
+* Palindrome Transformation
 
+```
+```
 ## Mathematics
 
 * Modulo Arithmetic
@@ -237,6 +259,7 @@ Each problem has helped me improve my logical thinking and understand different 
 * Number Theory
 * Divisibility Logic
 * Cost Optimization
+* Absolute Difference Calculations
 
 ## Problem Solving
 
@@ -248,6 +271,9 @@ Each problem has helped me improve my logical thinking and understand different 
 * Greedy Decision Making
 * Game Theory Basics
 * Step-by-Step Optimization
+* Character Comparison Strategies
+* String Validation Techniques
+* Hash-Based Problem Solving
 
 ## Performance Analysis
 
@@ -255,6 +281,7 @@ Each problem has helped me improve my logical thinking and understand different 
 * Space Complexity Analysis
 * Brute Force vs Optimized Solutions
 * Algorithm Optimization
+* Efficient Data Structure Usage
 
 ---
 
@@ -272,6 +299,8 @@ Through this challenge, I am continuously improving:
 * Clean Coding Practices
 * Technical Communication
 * Consistency & Discipline
+
+Beyond solving coding problems, this journey is helping me build the habit of writing better code, thinking analytically, and approaching problems from multiple perspectives.
 
 ---
 
@@ -306,13 +335,22 @@ Day-29/
 Day-30/
 │── Question60_Gemstones.java
 │── Question61_FunnyString.java
+
+Day-31/
+│── Question62_StrongPassword.java
+│── Question63_Pangram.java
+
+Day-32/
+│── Question64_TheLoveLetterMystery.java
 ```
 
 ---
 
 # 🎯 End Goal
 
-Complete all 120 problems, strengthen DSA fundamentals, improve coding interview readiness, and become a better software engineer through consistent daily practice.
+Complete all **120 coding problems**, strengthen my **Data Structures & Algorithms** foundation, improve coding interview readiness, and become a better software engineer through **consistent daily practice**.
+
+By the end of this challenge, I aim to be more confident in solving coding interview questions, writing optimized Java solutions, and tackling real-world programming problems.
 
 ---
 
@@ -330,15 +368,24 @@ github.com/saivivekkadari
 
 # 🚀 Progress Never Stops
 
-✅ 61 Problems Completed
+✅ **64 Problems Completed**
 
-🎯 59 Problems Remaining
+🎯 **56 Problems Remaining**
 
-🔥 30-Day Consistency Streak
+🔥 **32-Day Consistency Streak**
 
-📈 Crossed the 50% Milestone
+📈 **53.3% Challenge Completed**
 
-Every problem solved improves my understanding of programming, algorithms, and problem-solving.
+🏅 **Halfway Milestone Achieved**
+
+Every problem solved strengthens my understanding of programming, algorithms, and problem-solving.
+
+This repository is more than just a collection of Java solutions—it's a record of continuous learning, discipline, and consistent improvement.
 
 Learning one problem at a time.
+
 Growing one day at a time.
+
+⭐ If you find this repository helpful, feel free to explore the solutions, share your feedback, or connect with me on LinkedIn.
+
+Happy Coding! 🚀
