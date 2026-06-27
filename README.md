@@ -10,14 +10,14 @@ Every solution in this repository represents another step toward becoming a bett
 
 # 📊 Challenge Progress
 
-| Metric            | Status                       |
-| ----------------- | ---------------------------- |
-| 🎯 Total Target   | 120 Problems                 |
-| ✅ Completed       | 64 Problems                  |
-| 🔥 Current Streak | 32 Days                      |
-| 📈 Progress       | **64 / 120 (53.3%)**         |
-| 🎯 Remaining      | 56 Problems                  |
-| 🏅 Milestone      | **50%+ Challenge Completed** |
+| Metric            | Status                      |
+| ----------------- | --------------------------- |
+| 🎯 Total Target   | 120 Problems                |
+| ✅ Completed       | 66 Problems                 |
+| 🔥 Current Streak | 33 Days                     |
+| 📈 Progress       | **66 / 120 (55.0%)**        |
+| 🎯 Remaining      | 54 Problems                 |
+| 🏅 Milestone      | **55% Challenge Completed** |
 
 ---
 
@@ -42,6 +42,10 @@ Throughout this challenge, I have solved problems covering a wide variety of top
 * Pangram Detection
 * Two-Pointer Technique
 * Palindrome Transformation
+* Binary String Pattern Detection
+* Growth Simulation
+* Sliding Window Traversal
+* Iterative State Simulation
 
 Each problem has helped me improve my logical thinking, explore different approaches, and write cleaner, more efficient Java code.
 
@@ -209,8 +213,12 @@ Each problem has helped me improve my logical thinking, explore different approa
 
 * The Love-Letter Mystery
 
----
+## Day 33
 
+* Beautiful Binary String
+* Utopian Tree
+
+---
 # 🧠 Skills & Concepts Covered
 
 ## Arrays & Collections
@@ -233,6 +241,7 @@ Each problem has helped me improve my logical thinking, explore different approa
 * Lexicographical Ordering
 * Greedy Path Selection
 * Two-Pointer Technique
+* Simulation Algorithms
 
 ## Strings
 
@@ -248,9 +257,8 @@ Each problem has helped me improve my logical thinking, explore different approa
 * Pangram Validation
 * Password Strength Validation
 * Palindrome Transformation
+* Binary String Pattern Matching
 
-```
-```
 ## Mathematics
 
 * Modulo Arithmetic
@@ -274,6 +282,9 @@ Each problem has helped me improve my logical thinking, explore different approa
 * Character Comparison Strategies
 * String Validation Techniques
 * Hash-Based Problem Solving
+* Sliding Window Traversal
+* Growth Cycle Simulation
+* State Transition Simulation
 
 ## Performance Analysis
 
@@ -342,6 +353,10 @@ Day-31/
 
 Day-32/
 │── Question64_TheLoveLetterMystery.java
+
+Day-33/
+│── Question65_BeautifulBinaryString.java
+│── Question66_UtopianTree.java
 ```
 
 ---
@@ -368,24 +383,33 @@ github.com/saivivekkadari
 
 # 🚀 Progress Never Stops
 
-✅ **64 Problems Completed**
+✅ **66 Problems Completed**
 
-🎯 **56 Problems Remaining**
+🎯 **54 Problems Remaining**
 
-🔥 **32-Day Consistency Streak**
+🔥 **33-Day Consistency Streak**
 
-📈 **53.3% Challenge Completed**
+📈 **55.0% Challenge Completed**
 
-🏅 **Halfway Milestone Achieved**
+🏅 **55% Milestone Achieved**
 
 Every problem solved strengthens my understanding of programming, algorithms, and problem-solving.
 
-This repository is more than just a collection of Java solutions—it's a record of continuous learning, discipline, and consistent improvement.
+This repository is more than just a collection of Java solutions—it's a record of continuous learning, discipline, and consistent improvement. Every commit reflects my dedication to becoming a stronger software engineer through consistent practice.
 
-Learning one problem at a time.
+### 📈 Current Focus
 
-Growing one day at a time.
+* Complete all **120 coding problems**
+* Strengthen DSA fundamentals
+* Improve coding interview readiness
+* Master Java problem-solving patterns
+* Write clean, optimized, and maintainable code
 
-⭐ If you find this repository helpful, feel free to explore the solutions, share your feedback, or connect with me on LinkedIn.
+---
 
-Happy Coding! 🚀
+**Learning one problem at a time.**
+**Growing one day at a time.** 🚀
+
+⭐ If you find this repository helpful, feel free to explore the solutions, leave a star, or connect with me on LinkedIn.
+
+**Happy Coding! 💻🚀**
