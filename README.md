@@ -5,24 +5,33 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems%20Solved-70%2F120-success?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-58.3%25-brightgreen?style=for-the-badge)
-![Consistency](https://img.shields.io/badge/Consistency-34%20Days-orange?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems%20Solved-78%2F120-success?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-65.0%25-brightgreen?style=for-the-badge)
+![Consistency](https://img.shields.io/badge/Consistency-37%20Days-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-purple?style=for-the-badge)
 
 </p>
 
 ---
 
-## 👋 Welcome!
+# 👋 Welcome!
 
 Welcome to my **MountBlue 120 Problems Coding Challenge** repository.
 
-This repository documents my journey of solving **120 carefully selected coding problems using Java**. The challenge focuses on building strong **Data Structures & Algorithms (DSA)** fundamentals while improving logical thinking, coding efficiency, and interview readiness.
+This repository documents my journey of solving **120 coding problems using Java**, with a strong focus on **Data Structures & Algorithms (DSA)**, logical thinking, and writing efficient solutions.
 
-Rather than simply collecting solutions, this repository reflects my commitment to **learning in public**, writing clean Java code, understanding multiple problem-solving approaches, and maintaining consistency through daily practice.
+The purpose of this challenge is to:
 
-Every solved problem represents another step toward becoming a better software engineer.
+- Strengthen DSA fundamentals
+- Improve Java programming skills
+- Learn common coding interview patterns
+- Build consistency through daily practice
+- Develop clean coding habits
+- Prepare for Software Engineering interviews
+
+Rather than simply collecting solutions, this repository reflects my commitment to **learning in public**, continuously improving my problem-solving abilities, and becoming a better software engineer one challenge at a time.
+
+Every commit represents progress, discipline, and continuous learning.
 
 ---
 
@@ -31,101 +40,138 @@ Every solved problem represents another step toward becoming a better software e
 | Metric | Status |
 |---------|--------|
 | 🎯 Total Target | **120 Problems** |
-| ✅ Completed | **70 Problems** |
-| 🔥 Current Streak | **34 Days** |
-| 📈 Progress | **70 / 120 (58.3%)** |
-| 🎯 Remaining | **50 Problems** |
-| 🏅 Current Milestone | **58% Challenge Completed** |
+| ✅ Completed | **78 Problems** |
+| 🔥 Current Streak | **37 Days** |
+| 📈 Progress | **78 / 120 (65.0%)** |
+| 🎯 Remaining | **42 Problems** |
+| 🏅 Current Milestone | **65% Challenge Completed** |
 
 ---
 
 # 🚀 Latest Update
 
-## ✅ Day 34 Completed
+## ✅ Day 37 Completed
 
-### Problems Solved Today
+### Problems Solved
 
-- Repeated String
-- HackerRank in a String!
-- Designer PDF Viewer
-- Two Strings
+- Misère Nim
+- Sum vs XOR
+- String Construction
+- Palindrome Index
 
-### 💡 Key Learnings
+---
 
+### 💡 Approaches Used
+
+### ✅ Misère Nim
+
+Applied the Misère Nim strategy by first checking whether every pile contained only one stone. If all piles contained one stone, determined the winner based on whether the number of piles was even or odd. Otherwise, calculated the XOR of all pile sizes and used the result to determine the winning player.
+
+### ✅ Sum vs XOR
+
+Traversed the binary representation of the given number and counted the number of zero bits. Since every zero bit can independently be chosen as either 0 or 1, the answer equals **2^zeroBits**, which was efficiently calculated using bit shifting.
+
+### ✅ String Construction
+
+Inserted every character into a **HashSet** to count the number of unique characters. Since only distinct characters need to be purchased while duplicates can be copied for free, the answer equals the number of unique characters.
+
+### ✅ Palindrome Index
+
+Used the **Two-Pointer Technique** to compare characters from both ends. At the first mismatch, checked whether removing either the left or right character formed a palindrome and returned the corresponding index.
+
+---
+
+### 🔑 Key Learnings
+
+- XOR Operations
+- Bit Manipulation
+- Binary Representation
+- Game Theory
+- Two-Pointer Technique
 - HashSet Applications
-- Subsequence Matching
-- Character-to-Index Mapping
-- Efficient Frequency Counting
-- String Traversal
-- Pattern Recognition
-- Mathematical Optimization
-- Time Complexity Analysis
-
-### 📌 Approaches Used
-
-### ✅ Repeated String
-
-Counted the number of `'a'` characters in one copy of the string, calculated the number of complete repetitions within the given length, and then counted the remaining `'a'` characters in the partial substring.
-
-### ✅ HackerRank in a String!
-
-Used the **two-pointer technique** to determine whether `"hackerrank"` appears as a subsequence within the given string.
-
-### ✅ Designer PDF Viewer
-
-Mapped every character to its alphabetical index, found the tallest character height, and calculated the highlighted area using:
-
-Area = Maximum Letter Height × Word Length
-
-### ✅ Two Strings
-
-Stored all characters from the first string inside a **HashSet**, then checked whether any character from the second string existed in the set. Returned immediately after finding the first common character.
+- Unique Character Counting
+- Palindrome Validation
+- Greedy Decision Making
+- Time & Space Complexity Analysis
 
 ---
 
 # 🏆 Journey Highlights
 
-Throughout this challenge, I have solved problems covering a wide variety of concepts including:
+Throughout this challenge, I have solved problems covering a broad range of concepts, including:
 
-- Arrays & Collections
-- String Manipulation
-- Sorting Algorithms
-- Searching Algorithms
-- Greedy Algorithms
-- Simulation Problems
-- Mathematical Optimization
-- Pattern Recognition
-- Game Theory Basics
-- Time & Space Complexity Analysis
+### 📦 Arrays & Collections
+
+- Array Traversal
+- Frequency Counting
+- Array Rotation
+- Prefix Traversal
+- Position Mapping
 - HashSet Applications
-- Character Frequency Analysis
-- Character-to-Index Mapping
-- Two-Pointer Technique
-- Sliding Window Traversal
-- Reverse Traversal
-- Binary String Pattern Detection
-- Password Validation
-- Pangram Detection
-- Subsequence Matching
-- Palindrome Transformation
-- Growth Simulation
-- State Transition Simulation
+- Collection Manipulation
 
-Each challenge has strengthened my logical thinking, Java programming skills, debugging ability, and understanding of efficient algorithms.
+### 🔤 Strings
+
+- String Manipulation
+- Caesar Cipher
+- Pangram Detection
+- Password Validation
+- Funny String
+- Strong Password
+- CamelCase
+- Palindrome Transformation
+- Binary String Pattern Detection
+- String Construction
+- Longest Common Prefix
+- Append & Delete Operations
+- Character Mapping
+- Subsequence Matching
+
+### ⚙️ Algorithms
+
+- Sorting
+- Searching
+- Greedy Algorithms
+- Simulation
+- Two-Pointer Technique
+- Sliding Window
+- Pattern Matching
+- Binary Search Concepts
+- Pairwise Comparison
+- XOR Operations
+- Bit Manipulation
+- Mathematical Optimization
+
+### 🧩 Problem Solving
+
+- Pattern Recognition
+- State Transition
+- Matrix Traversal
+- Simulation-Based Problems
+- Game Theory
+- Wrapper Exchange Logic
+- Team Combination Analysis
+- Binary String Processing
+- Range Queries
+- Edge Case Handling
+- Greedy Decision Making
+- Efficient Counting Techniques
+
+Every challenge has strengthened my logical thinking, debugging skills, Java programming, and ability to recognize reusable algorithmic patterns.
 
 ---
 
 # 🎯 Goals
 
-Through this challenge, my goals are to:
+By the end of this challenge, I aim to:
 
 - ✅ Complete all **120 coding problems**
-- ✅ Build strong DSA fundamentals
-- ✅ Improve Java programming skills
-- ✅ Learn common interview patterns
-- ✅ Write clean and maintainable code
-- ✅ Develop algorithmic thinking
-- ✅ Improve coding speed and accuracy
+- ✅ Strengthen Data Structures & Algorithms fundamentals
+- ✅ Improve Java coding proficiency
+- ✅ Master common coding interview patterns
+- ✅ Write clean, readable, and optimized Java code
+- ✅ Improve Time & Space Complexity analysis
+- ✅ Build strong problem-solving skills
 - ✅ Prepare for Software Engineering interviews
 - ✅ Maintain consistency through daily practice
 
@@ -133,137 +179,142 @@ Through this challenge, my goals are to:
 
 # 🧩 Problem-Solving Approach
 
-For every coding challenge, I follow a structured approach:
+For every coding challenge, I follow a structured process:
 
-### 1️⃣ Understand the Problem
+## 1️⃣ Understand the Problem
 
-- Read the problem statement carefully.
-- Identify inputs, outputs, and constraints.
-- Consider edge cases before writing code.
+- Read the problem carefully.
+- Understand constraints.
+- Identify edge cases.
+- Determine expected output.
 
-### 2️⃣ Design the Solution
+## 2️⃣ Plan the Solution
 
-- Start with a straightforward approach.
-- Optimize whenever a better solution exists.
-- Choose the appropriate data structure.
+- Start with a simple solution.
+- Optimize wherever possible.
+- Choose appropriate data structures.
+- Think about scalability.
 
-### 3️⃣ Implement in Java
+## 3️⃣ Implement in Java
 
-- Write clean, readable code.
+- Write readable code.
+- Keep logic simple.
 - Use meaningful variable names.
-- Keep the solution simple and efficient.
+- Avoid unnecessary complexity.
 
-### 4️⃣ Analyze Complexity
+## 4️⃣ Analyze Complexity
 
-For every solution, I evaluate:
+For every solution I evaluate:
 
 - ⏱ Time Complexity
 - 💾 Space Complexity
 
-to understand the efficiency of my implementation.
+to understand how efficient the implementation is.
 
-### 5️⃣ Learn the Pattern
+## 5️⃣ Learn the Pattern
 
 Instead of memorizing solutions, I focus on understanding reusable patterns such as:
 
 - Frequency Counting
 - Hashing
 - Greedy Algorithms
-- Two Pointers
 - Sliding Window
-- Sorting
+- Two Pointers
+- XOR Techniques
+- Bit Manipulation
 - Simulation
-- String Processing
 - Mathematical Reasoning
+- Game Theory
+- String Processing
 - Pattern Recognition
 
-The goal is to recognize these patterns quickly during coding interviews and apply them effectively.
+These reusable patterns help me solve new coding interview questions more efficiently.
 
 ---
 
 # 📅 Daily Progress
 ```
 ```md
-## Day 1
+## 📆 Day 1
 
 - Sales by Match
 - Simple Array Sum
 
 ---
 
-## Day 2
+## 📆 Day 2
 
 - Breaking the Records
 - Number Line Jumps
 
 ---
 
-## Day 3
+## 📆 Day 3
 
 - Staircase
 - Compare the Triplets
 
 ---
 
-## Day 4
+## 📆 Day 4
 
 - Quicksort 1 – Partition
 
 ---
 
-## Day 5
+## 📆 Day 5
 
 - Super Reduced String
 - Bill Division (Bon Appétit)
 
 ---
 
-## Day 6
+## 📆 Day 6
 
 - A Very Big Sum
 - Plus Minus
 
 ---
 
-## Day 7
+## 📆 Day 7
 
 - Between Two Sets
 
 ---
 
-## Day 8
+## 📆 Day 8
 
 - Subarray Division
 
 ---
 
-## Day 9
+## 📆 Day 9
 
 - Migratory Birds
 
 ---
 
-## Day 10
+## 📆 Day 10
 
 - Birthday Cake Candles
 
 ---
 
-## Day 11
+## 📆 Day 11
 
 - Grading Students
 - Drawing Book
 
 ---
 
-## Day 12
+## 📆 Day 12
 
 - Divisible Sum Pairs
 - Mini-Max Sum
 
 ---
 
-## Day 13
+## 📆 Day 13
 
 - Counting Valleys
 - Library Fine
@@ -271,14 +322,14 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 14
+## 📆 Day 14
 
 - Caesar Cipher
 - Tower Breakers
 
 ---
 
-## Day 15
+## 📆 Day 15
 
 - Day of the Programmer
 - The Hurdle Race
@@ -286,7 +337,7 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 16
+## 📆 Day 16
 
 - Diagonal Difference
 - Mars Exploration
@@ -296,7 +347,7 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 17
+## 📆 Day 17
 
 - Game of Stones
 - Marc's Cakewalk
@@ -304,7 +355,7 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 18
+## 📆 Day 18
 
 - Save The Prisoner!
 - Beautiful Days at the Movies
@@ -312,14 +363,14 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 19
+## 📆 Day 19
 
 - Angry Professor
 - Jumping on the Clouds
 
 ---
 
-## Day 20
+## 📆 Day 20
 
 - Sherlock and Squares
 - Minimum Distances
@@ -327,7 +378,7 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 21
+## 📆 Day 21
 
 - Picking Numbers
 - Lonely Integer
@@ -335,7 +386,7 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 22
+## 📆 Day 22
 
 - Smart Number
 - Find the Median
@@ -343,31 +394,31 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 23
+## 📆 Day 23
 
 - Grid Challenge
 
 ---
 
-## Day 24
+## 📆 Day 24
 
 - Luck Balance
 
 ---
 
-## Day 25
+## 📆 Day 25
 
 - Separate the Numbers
 
 ---
 
-## Day 26
+## 📆 Day 26
 
 - Equalize the Array
 
 ---
 
-## Day 27
+## 📆 Day 27
 
 - Big Sorting
 - Beautiful Triplets
@@ -376,46 +427,46 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-## Day 28
+## 📆 Day 28
 
 - Taum and B'day
 
 ---
 
-## Day 29
+## 📆 Day 29
 
 - Jumping on the Clouds
 
 ---
 
-## Day 30
+## 📆 Day 30
 
 - Gemstones
 - Funny String
 
 ---
 
-## Day 31
+## 📆 Day 31
 
 - Strong Password
 - Pangram
 
 ---
 
-## Day 32
+## 📆 Day 32
 
 - The Love-Letter Mystery
 
 ---
 
-## Day 33
+## 📆 Day 33
 
 - Beautiful Binary String
 - Utopian Tree
 
 ---
 
-## ✅ Day 34
+## 📆 Day 34
 
 - Repeated String
 - HackerRank in a String!
@@ -424,17 +475,53 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 ---
 
-### 📈 Progress Timeline
+## 📆 Day 35
+
+- Chocolate Feast
+- ACM ICPC Team
+
+---
+
+## 📆 Day 36
+
+- Service Lane
+- Append and Delete
+
+---
+
+## 📆 Day 37
+
+- Misère Nim
+- Sum vs XOR
+- String Construction
+- Palindrome Index
+
+---
+
+# 📈 Progress Timeline
 
 | Milestone | Achievement |
-|-----------|-------------|
+|------------|-------------|
 | 🚀 Challenge Started | Day 1 |
-| ✅ 25 Problems | Completed |
-| ✅ 50 Problems | Completed |
-| 🏅 58% Complete | 70 / 120 Problems |
-| 🔥 Consistency | 34-Day Streak |
+| ✅ First 10 Problems | Completed |
+| ✅ First 25 Problems | Completed |
+| ✅ First 50 Problems | Completed |
+| 🏅 65% Milestone | **78 / 120 Problems** |
+| 🔥 Current Consistency | **37-Day Streak** |
 | 🎯 Current Goal | Reach 100 Problems |
 | 🏁 Final Goal | Complete all 120 Problems |
+
+---
+
+# 🏆 Milestones Achieved
+
+- ✅ Solved **78 Java Coding Problems**
+- 🔥 Maintained a **37-Day Coding Streak**
+- 📈 Reached **65% Challenge Completion**
+- 💻 Built strong consistency through daily coding
+- 🧠 Practiced a wide variety of DSA concepts
+- 🚀 Improved coding interview readiness
+- 📚 Expanded knowledge of Java problem-solving patterns
 
 ---
 ```
@@ -447,10 +534,10 @@ The goal is to recognize these patterns quickly during coding interviews and app
 - Frequency Counting
 - Array Rotation
 - Prefix Traversal
-- List Manipulation
 - Position Mapping
-- Array Equalization
+- Collection Manipulation
 - HashSet Applications
+- Range Traversal
 
 ---
 
@@ -460,13 +547,18 @@ The goal is to recognize these patterns quickly during coding interviews and app
 - Searching
 - Greedy Algorithms
 - Brute Force
-- Optimization Techniques
+- Simulation
 - Two-Pointer Technique
 - Sliding Window
-- Simulation
+- Pattern Matching
+- Pairwise Comparison
+- Binary String Processing
+- XOR Operations
+- Bit Manipulation
+- Mathematical Optimization
 - Character Mapping
-- Hash-Based Lookup
-- Lexicographical Ordering
+- Longest Common Prefix
+- Range Query Processing
 
 ---
 
@@ -474,17 +566,20 @@ The goal is to recognize these patterns quickly during coding interviews and app
 
 - Caesar Cipher
 - String Reduction
+- String Construction
 - Pattern Matching
 - Character Manipulation
-- CamelCase
+- CamelCase Processing
 - Pangram Detection
 - Password Validation
-- Funny String
-- Alternating Characters
+- Funny String Validation
+- Strong Password Validation
+- Palindrome Transformation
+- Palindrome Validation
+- Binary String Pattern Detection
 - Common Character Detection
 - Subsequence Matching
-- Palindrome Transformation
-- Binary String Pattern Detection
+- Append & Delete Operations
 
 ---
 
@@ -495,9 +590,10 @@ The goal is to recognize these patterns quickly during coding interviews and app
 - Perfect Squares
 - Number Theory
 - Divisibility Logic
-- Mathematical Optimization
-- Cost Optimization
 - Absolute Difference
+- Cost Optimization
+- Wrapper Exchange Simulation
+- Binary Representation Analysis
 
 ---
 
@@ -506,13 +602,19 @@ The goal is to recognize these patterns quickly during coding interviews and app
 - Pattern Recognition
 - Matrix Traversal
 - 2D Grid Processing
-- Simulation Problems
-- State Transition
-- Growth Simulation
-- Frequency Analysis
+- Edge Case Handling
+- Simulation-Based Problems
+- State Transition Simulation
+- Growth Cycle Simulation
+- Team Combination Analysis
+- Wrapper Exchange Logic
 - Character-to-Index Mapping
 - Efficient Counting
-- Edge Case Handling
+- Frequency Analysis
+- Game Theory
+- Greedy Decision Making
+- Operation Count Analysis
+- Range Minimum Search
 
 ---
 
@@ -522,26 +624,27 @@ The goal is to recognize these patterns quickly during coding interviews and app
 - Space Complexity Analysis
 - Brute Force vs Optimized Solutions
 - Efficient Data Structure Usage
+- Algorithm Optimization
 - Clean Coding Practices
 
 ---
 
 # 🌱 What I'm Learning
 
-This challenge is helping me improve in:
+Through this challenge, I continue to strengthen:
 
-- Data Structures & Algorithms
+- Data Structures & Algorithms (DSA)
 - Java Programming
-- Problem Solving
+- Problem-Solving Skills
 - Algorithmic Thinking
-- Debugging Skills
-- Time & Space Complexity
-- Clean Code
-- Interview Preparation
+- Debugging Techniques
+- Time & Space Complexity Analysis
+- Clean Coding Practices
+- Coding Interview Preparation
 - Technical Communication
 - Consistency & Discipline
 
-Every problem teaches a new way to think. Rather than memorizing solutions, I'm learning reusable techniques and patterns that apply across many coding interview questions.
+Beyond solving coding problems, this journey is helping me develop a structured approach to solving complex problems and writing efficient, maintainable Java code.
 
 ---
 
@@ -572,7 +675,21 @@ Day-34/
 │── Question68_HackerRankInAString.java
 │── Question69_DesignerPDFViewer.java
 │── Question70_TwoStrings.java
-````
+
+Day-35/
+│── Question71_ChocolateFeast.java
+│── Question72_ACM_ICPC_Team.java
+
+Day-36/
+│── Question73_ServiceLane.java
+│── Question74_AppendAndDelete.java
+
+Day-37/
+│── Question75_MisereNim.java
+│── Question76_SumVsXOR.java
+│── Question77_StringConstruction.java
+│── Question78_PalindromeIndex.java
+```
 
 ---
 
@@ -580,37 +697,38 @@ Day-34/
 
 ## ✅ Completed
 
-* 70 Java Coding Problems
-* 34-Day Consistency Streak
-* 58% of Challenge Completed
+- 78 Java Coding Problems
+- 37-Day Consistency Streak
+- 65% Challenge Completed
 
 ## 🔄 In Progress
 
-* Complete Remaining 50 Problems
-* Learn More Advanced DSA Patterns
-* Improve Solution Optimization
+- Complete the remaining 42 problems
+- Strengthen advanced DSA concepts
+- Improve solution optimization
+- Learn more interview problem-solving patterns
 
 ## 🎯 Future Goals
 
-* Finish all 120 Problems
-* Master Java DSA
-* Solve Medium & Hard Interview Problems
-* Strengthen Competitive Programming Skills
-* Crack Software Engineering Interviews
+- Complete all 120 MountBlue coding problems
+- Master Java DSA
+- Solve Medium & Hard interview questions
+- Improve Competitive Programming skills
+- Become interview-ready for Software Engineering roles
 
 ---
 
 # 📊 Current Statistics
 
-| Category          | Status                     |
-| ----------------- | -------------------------- |
-| 🎯 Total Problems | 120                        |
-| ✅ Solved          | 70                         |
-| ⏳ Remaining       | 50                         |
-| 📈 Progress       | 58.3%                      |
-| 🔥 Streak         | 34 Days                    |
-| 💻 Language       | Java                       |
-| 📚 Platform       | MountBlue Coding Challenge |
+| Category | Status |
+|----------|--------|
+| 🎯 Total Problems | 120 |
+| ✅ Solved | 78 |
+| ⏳ Remaining | 42 |
+| 📈 Progress | 65.0% |
+| 🔥 Current Streak | 37 Days |
+| 💻 Language | Java |
+| 📚 Challenge | MountBlue 120 Problems |
 
 ---
 
@@ -618,7 +736,7 @@ Day-34/
 
 ### 💼 LinkedIn
 
-[www.linkedin.com/in/sai-vivek-kadari-a86172288](http://www.linkedin.com/in/sai-vivek-kadari-a86172288)
+https://www.linkedin.com/in/sai-vivek-kadari-a86172288
 
 ### 💻 GitHub
 
@@ -626,56 +744,43 @@ https://github.com/saivivekkadari
 
 ---
 
-# 🚀 Why This Repository?
-
-This repository is more than a collection of Java solutions.
-
-It reflects:
-
-* Daily consistency
-* Continuous learning
-* Problem-solving mindset
-* Growth through practice
-* Interview preparation
-* Passion for software engineering
-
-Every commit represents one step closer to becoming a better developer.
-
----
-
 # ⭐ Support
 
-If you find this repository useful:
+If you find this repository helpful:
 
-⭐ Star the repository
+- ⭐ Star this repository
+- 🍴 Fork it to practice the problems yourself
+- 💬 Share suggestions or improvements
+- 🤝 Connect with me on LinkedIn
 
-🍴 Fork it and solve the problems yourself
-
-💬 Share feedback or suggestions
-
-🤝 Connect with me on LinkedIn
+Every star, suggestion, and connection motivates me to keep learning and improving.
 
 ---
 
 # 📌 Current Focus
 
-* Complete all 120 MountBlue Problems
-* Strengthen DSA Fundamentals
-* Master Java Problem Solving
-* Improve Coding Interview Skills
-* Write Clean & Optimized Code
+- Complete all **120 MountBlue Problems**
+- Strengthen Data Structures & Algorithms
+- Master Java problem-solving patterns
+- Improve coding interview readiness
+- Write clean, optimized, and maintainable code
+- Learn from every coding challenge
 
 ---
 
-# 💙 Quote
+# 💙 Final Thoughts
+
+This repository is more than a collection of Java solutions.
+
+It represents consistency, continuous learning, discipline, and my commitment to becoming a better software engineer through daily practice.
+
+Every problem solved improves my understanding of algorithms, strengthens my logical thinking, and prepares me for real-world software engineering challenges.
 
 > **"Consistency beats intensity. One problem solved today is one step closer to mastery tomorrow."**
 
 ---
 
-## 🚀 Keep Learning. Keep Building. Keep Coding.
+## 🚀 Keep Learning • Keep Building • Keep Coding
 
-**Happy Coding! 💻**
-
-```
-```
+**Happy Coding! 💻🚀**
+````
