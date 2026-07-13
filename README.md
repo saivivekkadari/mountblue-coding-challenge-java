@@ -191,6 +191,7 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 ## Day 33
 - Beautiful Binary String
 - Utopian Tree
+  
 ## Day 34
 - Repeated String
 - HackerRank in a String!
