@@ -13,11 +13,11 @@ Every solution in this repository represents another step toward becoming a bett
 | Metric | Status |
 |--------|--------|
 | 🎯 Total Target | 120 Problems |
-| ✅ Completed | **102 Problems** |
-| 🔥 Current Streak | **49 Days** |
-| 📈 Progress | **102 / 120 (85.0%)** |
-| 🎯 Remaining | **18 Problems** |
-| 🏅 Milestone | **85% Challenge Completed** |
+| ✅ Completed | **110 Problems** |
+| 🔥 Current Streak | **58 Days** |
+| 📈 Progress | **110 / 120 (91.7%)** |
+| 🎯 Remaining | **10 Problems** |
+| 🏅 Milestone | **90%+ Challenge Completed** |
 
 ---
 
@@ -53,6 +53,11 @@ Throughout this challenge, I have solved problems covering a wide variety of top
 - Subsequence Matching
 - Binary Search Thinking
 - Greedy Decision Making
+- Counting Sort
+- Insertion Sort
+- Ranking Algorithms
+- Frequency Validation
+- Power of Two Logic
 
 Every problem improves my logical thinking, coding style, debugging ability, and understanding of algorithms.
 
@@ -191,7 +196,7 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 ## Day 33
 - Beautiful Binary String
 - Utopian Tree
-  
+
 ## Day 34
 - Repeated String
 - HackerRank in a String!
@@ -260,8 +265,34 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - Sherlock and Array
 - Recursive Digit (Super Digit)
 
----
+## Day 50
+- Climbing the Leaderboard
 
+## Day 51
+- Counter Game
+
+## Day 52
+- Sansa and XOR
+
+## Day 53
+- *(Add your solved problems)*
+
+## Day 54
+- *(Add your solved problems)*
+
+## Day 55
+- *(Add your solved problems)*
+
+## Day 56
+- Counting Sort
+
+## Day 57
+- Insertion Sort - Part 1
+
+## Day 58
+- Sherlock and the Valid String
+
+---
 # 🧠 Skills & Concepts Covered
 
 ## Arrays & Collections
@@ -276,6 +307,8 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - Matrix Traversal
 - Interval Processing
 - Collection Utilities
+- Frequency Arrays
+- Ranking Systems
 
 ## Algorithms
 
@@ -293,6 +326,9 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - XOR Operations
 - Custom Comparator Sorting
 - Binary String Processing
+- Counting Sort
+- Insertion Sort
+- Ranking Algorithm
 
 ## Strings
 
@@ -309,6 +345,7 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - HackerRank in a String
 - Append and Delete
 - Binary String Manipulation
+- Valid String Frequency Analysis
 
 ## Mathematics
 
@@ -322,6 +359,7 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - Kaprekar Numbers
 - Magic Square Cost Calculation
 - Time Calculations
+- Power of Two
 
 ## Problem Solving
 
@@ -338,7 +376,13 @@ Every problem improves my logical thinking, coding style, debugging ability, and
 - Wrapper Exchange Simulation
 - Counter Simulation
 - Greedy Purchasing
-- Team Combination Analysis## Performance Analysis
+- Team Combination Analysis
+- Leaderboard Ranking
+- Bitwise Games
+- Frequency Validation
+- Counting Techniques
+
+## Performance Analysis
 
 - Time Complexity Analysis
 - Space Complexity Analysis
@@ -366,85 +410,44 @@ Through this challenge, I am continuously improving:
 
 Beyond solving coding problems, this journey is helping me build the habit of writing better code, thinking analytically, and approaching problems from multiple perspectives.
 
----
-
-# 📂 Repository Structure
+---# 📂 Repository Structure
 
 ```text
 Day-01/
 Day-02/
 Day-03/
 ...
-Day-49/
+Day-58/
 
-│── Day-34/
-│   ├── Question67_RepeatedString.java
-│   ├── Question68_HackerRankInAString.java
-│   ├── Question69_DesignerPDFViewer.java
-│   └── Question70_TwoStrings.java
+│── Day-50/
+│   └── Question103_ClimbingTheLeaderboard.java
 
-│── Day-35/
-│   ├── Question71_ChocolateFeast.java
-│   └── Question72_ACM_ICPCTeam.java
+│── Day-51/
+│   └── Question104_CounterGame.java
 
-│── Day-36/
-│   ├── Question73_ServiceLane.java
-│   └── Question74_AppendAndDelete.java
+│── Day-52/
+│   └── Question105_SansaAndXOR.java
 
-│── Day-37/
-│   ├── Question75_MisereNim.java
-│   ├── Question76_SumVsXOR.java
-│   ├── Question77_StringConstruction.java
-│   └── Question78_PalindromeIndex.java
+│── Day-53/
+│   └── Question106_MarsExploration.java
 
-│── Day-38/
-│   ├── Question79_LisasWorkbook.java
-│   ├── Question80_XORStrings.java
-│   ├── Question81_FairRations.java
-│   └── Question82_CutTheSticks.java
+│── Day-54/
+│   └── Question107_???
 
-│── Day-39/
-│   ├── Question83_Anagram.java
-│   └── Question84_ModifiedKaprekarNumbers.java
+│── Day-55/
+│   └── (Reserved)
 
-│── Day-40/
-│   ├── Question85_GameOfThronesI.java
-│   └── Question86_HappyLadybugs.java
+│── Day-56/
+│   └── Question109_CountingSort.java
 
-│── Day-41/
-│   └── Question87_MaximizingXOR.java
+│── Day-57/
+│   └── Question110_InsertionSort1.java
 
-│── Day-42/
-│   ├── Question88_PriyankaAndToys.java
-│   ├── Question89_CavityMap.java
-│   └── Question90_MakingAnagrams.java
-
-│── Day-43/
-│   └── Question91_StrangeCounter.java
-
-│── Day-44/
-│   └── Question92_MarkAndToys.java
-
-│── Day-45/
-│   ├── Question93_MissingNumbers.java
-│   └── Question94_FlippingBits.java
-
-│── Day-46/
-│   ├── Question95_FormingMagicSquare.java
-│   └── Question96_JimAndTheOrders.java
-
-│── Day-47/
-│   └── Question97_TheTimeInWords.java
-
-│── Day-48/
-│   ├── Question98_SherlockAndTheBeast.java
-│   ├── Question99_ManasaAndStones.java
-│   └── Question100_ClosestNumbers.java
-
-│── Day-49/
-│   ├── Question101_SherlockAndArray.java
-│   └── Question102_RecursiveDigit.java
+│── Day-58/
+│   └── Question108_SherlockAndTheValidString.java
 ```
+
+> **Note:** Update Day-53 and Day-54 filenames with the exact question names if they are different.
 
 ---
 
@@ -470,15 +473,15 @@ By the end of this challenge, I aim to confidently solve coding interview proble
 
 # 🚀 Progress Never Stops
 
-✅ **102 Problems Completed**
+✅ **110 Problems Completed**
 
-🎯 **18 Problems Remaining**
+🎯 **10 Problems Remaining**
 
-🔥 **49-Day Consistency Streak**
+🔥 **58-Day Consistency Streak**
 
-📈 **85.0% Challenge Completed**
+📈 **91.7% Challenge Completed**
 
-🏅 **85% Milestone Achieved**
+🏅 **90%+ Milestone Achieved**
 
 Every problem solved strengthens my understanding of Java, algorithms, and efficient problem-solving.
 
@@ -492,7 +495,7 @@ This repository is more than just a collection of Java solutions—it's a record
 - Strengthen DSA fundamentals
 - Improve coding interview readiness
 - Master Java problem-solving patterns
-- Write clean, optimized, and maintainable code
+- Write clean, optimized, and maintainable Java code
 - Prepare for Software Engineering roles
 
 ---
